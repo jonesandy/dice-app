@@ -1,5 +1,5 @@
 class Dice
   def roll_dice
-    1
+    rand(5) + 1
   end
 end
