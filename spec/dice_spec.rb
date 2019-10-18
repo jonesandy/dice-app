@@ -9,4 +9,5 @@ describe Dice do
       expect(subject.roll_dice).to eq 1
     end
   end
+  
 end
